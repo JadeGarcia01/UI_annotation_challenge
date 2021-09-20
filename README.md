@@ -1,5 +1,5 @@
-# Annotation Challenge
-To complete this challenge you must be familiar with basic CSS styling including typography and the box model. You also need to be familiar with styling anchors (hyperlinks) and the concept of UI annotations.
+# UI Annotations
+To complete this practice, you must be familiar with basic CSS styling including typography and the box model. You also need to be familiar with styling anchors (hyperlinks) and the concept of UI annotations.
 
 ## Objectives
 - Practice creating UI annotations
