@@ -49,21 +49,21 @@ header p {
 a.read-more {
 	display: inline-block; /* makes the anchor width the same size as the content. Will behave more like a block level element */
 }
-a.visited{
+a:visited{
 	color:#000000;
 	text-decoration: underline;
 }
-a.hover{
+a:hover{
 	color: darkred;
 	font-style: italic;
 }
-a.focus{
+a:focus{
 	color: #000000;
 	font-weight: 600;
 	font-style: oblique;
 	text-decoration: underline;
 }
-a.active{
+a:active{
 	color:blueviolet;
 	text-decoration: underline;
 	font-weight: 600;
