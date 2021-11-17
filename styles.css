@@ -17,6 +17,7 @@ html {
 	font-style: normal;
 	font-size: 1rem;
 	line-height: 1.375em; /* use .6875 as baseline grid or 11px */
+	baseline: .6875rem;
 
 }
 
@@ -47,6 +48,25 @@ header p {
 
 a.read-more {
 	display: inline-block; /* makes the anchor width the same size as the content. Will behave more like a block level element */
+}
+a.visited{
+	color:#000000;
+	text-decoration: underline;
+}
+a.hover{
+	color: darkred;
+	font-style: italic;
+}
+a.focus{
+	color: #000000;
+	font-weight: 600;
+	font-style: oblique;
+	text-decoration: underline;
+}
+a.active{
+	color:blueviolet;
+	text-decoration: underline;
+	font-weight: 600;
 }
 
 /* layout styles */
